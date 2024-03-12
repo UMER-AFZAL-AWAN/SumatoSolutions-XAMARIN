@@ -1,1 +1,0 @@
-D:\SumatoSolutions\11032024\FirstProject\FirstProject\FirstProject.csproj;x64
